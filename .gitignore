@@ -3,4 +3,7 @@
 mbed_settings.*
 BUILD/
 .build/
-
+.temp/
+*.py
+mbed-http/
+easy-connect/
